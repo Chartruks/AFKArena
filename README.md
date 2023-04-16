@@ -1,2 +1,1 @@
-# AFK Arena
-AFK Arena Guides
+**AFK Arena Guides
